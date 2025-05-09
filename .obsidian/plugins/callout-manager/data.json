@@ -1,0 +1,31 @@
+{
+  "callouts": {
+    "custom": [
+      "lore",
+      "treasure"
+    ],
+    "settings": {
+      "lore": [
+        {
+          "changes": {
+            "icon": "lucide-book",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "treasure": [
+        {
+          "changes": {
+            "icon": "lucide-gem",
+            "color": "227, 107, 167"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="profile"] {
+    --callout-color: 166, 138, 249;
+    --callout-icon: lucide-user;
+}

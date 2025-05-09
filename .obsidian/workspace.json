@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "007d856fdb60c579",
+        "id": "2894898cbac2e666",
         "type": "tabs",
         "children": [
           {
-            "id": "390ba97c8bdb7b06",
+            "id": "1ee33b4cf73d8c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "1. World/Events/Ограбление Равенлофта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Ограбление Равенлофта"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Villain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5110321044922
   },
   "right": {
     "id": "f4ac16873f6f0635",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "1. World/Events/Ограбление Равенлофта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Ограбление Равенлофта"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
-                "linksCollapsed": false,
+                "file": "Events/Ограбление Равенлофта.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Ограбление Равенлофта"
             }
           },
           {
@@ -142,21 +142,65 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "1. World/Events/Ограбление Равенлофта.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Ограбление Равенлофта"
+            }
+          },
+          {
+            "id": "f1392e50735de393",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "e42a4fed86a18883",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "e542da2077aa26bf",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_5a883b2a59cb",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 10,
+                    "year": 735
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_58683a384a78"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +210,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "copilot:Open Copilot Chat": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-importer:Open Importer": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "390ba97c8bdb7b06",
-  "lastOpenFiles": []
+  "active": "1ee33b4cf73d8c5d",
+  "lastOpenFiles": [
+    "1. World/Events/Кошмар Варюшки.md",
+    "1. World/Events/Ограбление Равенлофта.md",
+    "1. World/NPC/Волента Попофски.md",
+    "1. World/NPC/Statblocks/Волента, Обезумевшее порождение.md",
+    "1. World/NPC/Statblocks/Волента, Светоч Алхимии.md",
+    "1. World/NPC/Анастасия Карелова.md",
+    "1. World/NPC/Statblocks/Анастасия Карелова, Вампирическая Мерзость.md",
+    "1. World/NPC/Statblocks/Анастасия Карелова, Светский Вампир.md",
+    "1. World/NPC/Statblocks/Ирина.md",
+    "1. World/NPC/Отец Люциан Петрович.md",
+    "1. World/NPC/Рахадин.md",
+    "1. World/Items/Амулет Равенлофта.md",
+    "1. World/Items/Символ Милости Рассвета.md",
+    "2. Mechanics/Others/Увечия.md",
+    "Pasted image 20250509195640.png",
+    "Pasted image 20250509191808.png",
+    "1. World/Items/Бедренная кость Св. Марковии.md",
+    "1. World/Items/Посох Хазана.md",
+    "1. World/Items/Камень ясновидения.md",
+    "1. World/Items/Амулет рыцарского пути.md",
+    "Saint_Markovias_Thighbone.webp",
+    "2. Mechanics/Conditions/Испуганный.md",
+    "2. Mechanics/Dangers/Отравленные дротики.md",
+    "1. World/NPC/Людмила Вилисевич.md",
+    "2. Mechanics/Dangers/Коричневая плесень.md",
+    "1. World/NPC/Эсмеральда д’Авенир.md",
+    "1. World/NPC/Statblocks/Эсмеральда д'Авенир.md",
+    "1. World/NPC/Ирина.md",
+    "1. World/NPC/Statblocks",
+    "2. Mechanics/Conditions/Недееспособность.md",
+    "2. Mechanics/Actions",
+    "2. Mechanics/Others",
+    "Pasted image 20250505230602.png",
+    "zuleika.jpg",
+    "Zorya.jpg",
+    "yeska.jpeg",
+    "werewolf_den.jpg",
+    "Von_Richtens_Tower.png",
+    "Village_of_Krezk_afar 2.jpg",
+    "2. Session Notes",
+    "1. World/Mechanics",
+    "1. World/Locations/Валлаки",
+    "2. Mechanics/Bestiary/Custom",
+    "2. Mechanics/Bestiary",
+    "1. World/Locations",
+    "1. World"
+  ]
 }

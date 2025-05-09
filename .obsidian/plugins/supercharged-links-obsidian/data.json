@@ -1,0 +1,64 @@
+{
+  "targetAttributes": [
+    "icon"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "icon",
+      "value": "Location",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c1ee-e972",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "icon",
+      "value": "NPC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "89c5-89e2",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "icon",
+      "value": "Item",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fb9c-b2fa",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "icon",
+      "value": "Monster",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8e9b-cacb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

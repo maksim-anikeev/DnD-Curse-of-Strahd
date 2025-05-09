@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "profile_callout"
+  ],
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian"
+}
