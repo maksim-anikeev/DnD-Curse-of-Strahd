@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. World/Events/Ограбление Равенлофта.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -210,16 +210,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "copilot:Open Copilot Chat": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "callout-manager:Insert Callout": false,
       "obsidian-importer:Open Importer": false,
-      "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "calendarium:Open Calendarium": false
     }
