@@ -220,8 +220,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "callout-manager:Insert Callout": false,
       "obsidian-importer:Open Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1ee33b4cf73d8c5d",
