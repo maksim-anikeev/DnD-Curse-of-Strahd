@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🦸",
       "LiNotebookText",
       "LiNotebookTabs",
       "LiNotebookPen",
-      "LiBookOpenText",
-      "LiBuilding2"
+      "LiBookOpenText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "1. World/Locations/Валлаки": "LiBuilding2",
   "1. World/Mechanics": "LiBookOpenText",
   "1. World/Items": "LiGem",
-  "2. Session Notes": "LiNotebookText"
+  "2. Session Notes": "LiNotebookText",
+  "1. World/Characters": "🦸"
 }
