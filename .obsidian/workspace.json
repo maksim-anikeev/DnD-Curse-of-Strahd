@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World/Events/Ограбление Равенлофта.md",
+                "file": "2. Mechanics/Actions/Помощь.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ограбление Равенлофта"
+              "title": "Помощь"
             }
           }
         ]
@@ -210,22 +210,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "callout-manager:Insert Callout": false,
       "obsidian-importer:Open Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "1ee33b4cf73d8c5d",
   "lastOpenFiles": [
-    "1. World/Events/Кошмар Варюшки.md",
+    "conflict-files-obsidian-git.md",
+    "2. Mechanics/Actions/Помощь.md",
+    "1. World/Characters/Цицерон/Цицерон.md",
+    "1. World/Characters/Фейлин/Фейлин.md",
+    "1. World/Characters/Лу Мор/Лу Мор.md",
+    "1. World/Characters/Меликат/Меликат.md",
+    "1. World/Characters/Аштаи/Аштаи.md",
+    "1. World/Characters/Армагау/Армагау.md",
+    "1. World/Characters/Цицерон",
+    "1. World/Characters/Фейлин",
+    "1. World/Characters/Лу Мор",
+    "1. World/Characters/Меликат",
+    "1. World/Characters/Джо.md",
+    "1. World/Characters/Аштаи",
+    "1. World/Characters/Армагау",
+    "1. World/Characters",
     "1. World/Events/Ограбление Равенлофта.md",
     "1. World/Items/Камень ясновидения.md",
     "1. World/Events/Кошмар Варюшки.md",
@@ -245,7 +261,6 @@
     "Pasted image 20250509191808.png",
     "1. World/Items/Бедренная кость Св. Марковии.md",
     "1. World/Items/Посох Хазана.md",
-    "1. World/Items/Амулет рыцарского пути.md",
     "Saint_Markovias_Thighbone.webp",
     "1. World/NPC/Statblocks",
     "2. Mechanics/Actions",
